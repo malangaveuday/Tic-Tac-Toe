@@ -1,0 +1,176 @@
+body{
+    background: black;
+   align-content: center;
+
+}
+
+@media only screen and (max-width: 400px){
+    .btnCss{
+        height: 10vmin;
+        width: 15vmin;
+        font-size: 4vmin;
+        color: red;
+        background-color: white;
+        margin: 5%;
+        text-decoration: none;
+        padding: 0px !important;
+        outline: none;
+    }
+    .btn:focus {
+        color: red;
+        outline: none;
+    }
+    .btn:hover{
+        color: red;
+        outline: none;
+    }
+    div{
+        align-self: center;
+    }
+    h1{
+        color: orangered;
+    }
+    .toast-item-wrapper{
+        color: blueviolet;
+        font-size: large;
+        text-align: center;
+        padding: 2%;
+    }
+    .toast-container {
+        width: 30%;
+        background-color: maroon;
+    }
+    .toast-position-middle-center {
+        position: absolute;
+        left: 35%;
+        top: 40%;
+    }
+}
+
+@media only screen and (min-width: 400px) {
+    .btnCss{
+        height: 10vmin;
+        width: 20vmin;
+        font-size: 6vmin;
+        color: red;
+        background-color: white;
+        margin: 5%;
+        text-decoration: none;
+        padding: 0px !important;
+        outline: none;
+    }
+    .btn:focus {
+        color: red;
+        outline: none;
+    }
+    .btn:hover{
+        color: red;
+        outline: none;
+    }
+    div{
+        align-self: center;
+    }
+    h1{
+        color: orangered;
+    }
+    .toast-item-wrapper{
+        color: blueviolet;
+        font-size: large;
+        text-align: center;
+        padding: 2%;
+    }
+    .toast-container {
+        width: 30%;
+        background-color: maroon;
+    }
+    .toast-position-middle-center {
+        position: absolute;
+        left: 35%;
+        top: 40%;
+    }
+}
+@media only screen and (min-width: 600px) {
+    .btnCss{
+        height: 10vmin;
+        width: 20vmin;
+        font-size: 6vmin;
+        color: red;
+        background-color: white;
+        margin: 5%;
+        text-decoration: none!important;
+        padding: 0px !important;
+       outline: none;
+    }
+    .btn:focus {
+        color: red;
+        outline: none;
+    }
+    .btn:hover{
+        color: red;
+        outline: none;
+    }
+    div{
+        align-self: center;
+    }
+    h1{
+        color: orangered;
+    }
+    .toast-item-wrapper{
+        color: blueviolet;
+        font-size: large;
+        text-align: center;
+        padding: 2%;
+    }
+    .toast-container {
+        width: 30%;
+        background-color: maroon;
+    }
+    .toast-position-middle-center {
+        position: absolute;
+        left: 35%;
+        top: 40%;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .btnCss {
+        width: 20%;
+        height: 10vmin;
+        font-size:4vmin;
+        color: red;
+        background-color: white;
+        margin: 2%;
+        /*text-decoration: none !important;*/
+        padding: 0 !important;
+        border: none;
+        outline: none;
+    }
+    .btn:focus {
+        color: red;
+        outline: none;
+    }
+    .btn:hover{
+        color: red;
+        outline: none;
+    }
+    div{
+        align-self: center;
+    }
+    h1{
+        color: orangered;
+    }
+    .toast-item-wrapper{
+        color: blueviolet;
+        font-size: large;
+        text-align: center;
+        padding: 2%;
+    }
+    .toast-container {
+        width: 30%;
+        background-color: maroon;
+    }
+    .toast-position-middle-center {
+        position: absolute;
+        left: 35%;
+        top: 40%;
+    }
+}
